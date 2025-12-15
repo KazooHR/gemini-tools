@@ -1,0 +1,16 @@
+{
+  "context": {
+    "fileName": ["GEMINI.md"]
+  },
+  "mcpServers": {
+    "atlassian-rovo-mcp": {
+      "type": "sse",
+      "url": "https://mcp.atlassian.com/v1/sse"
+    }
+  },
+  "security": {
+    "auth": {
+      "selectedType": "oauth-personal"
+    }
+  }
+}
