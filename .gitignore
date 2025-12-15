@@ -1,0 +1,9 @@
+*
+!.gitignore
+!*.md
+
+
+# Add your folders and settings.json
+!/ticket-generator/
+!/ticket-generator/agents/
+!/ticket-generator/settings.json
